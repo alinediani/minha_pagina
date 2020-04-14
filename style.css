@@ -1,0 +1,42 @@
+.aaa{
+    background-color:#1e90ff;font-family:verdana;
+}
+.aa{
+    font-family:Comic Sans MS;background-color:#6a5acd;color:white;
+}
+.aaaa{
+    color:#3cb371
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1e90ff;
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  
+  .navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .navbar li a:hover {
+    background-color: #469ff8;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#3cb371;
+    color: white;
+    text-align: center;
+  }
